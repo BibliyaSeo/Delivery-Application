@@ -38,6 +38,9 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = FoodDeliveryApp/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-FoodDeliveryApp-FoodDeliveryAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FoodDeliveryApp-FoodDeliveryAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-FoodDeliveryApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodDeliveryApp.debug.xcconfig"; path = "Target Support Files/Pods-FoodDeliveryApp/Pods-FoodDeliveryApp.debug.xcconfig"; sourceTree = "<group>"; };
+		539AD46428DC3F51000DABDC /* FoodDeliveryApp-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "FoodDeliveryApp-Bridging-Header.h"; path = "FoodDeliveryApp/FoodDeliveryApp-Bridging-Header.h"; sourceTree = "<group>"; };
+		539AD46528DC3FB5000DABDC /* RCTTMap.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = RCTTMap.h; path = FoodDeliveryApp/RCTTMap.h; sourceTree = "<group>"; };
+		539AD46628DC3FE7000DABDC /* RCTTMap.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = RCTTMap.m; path = FoodDeliveryApp/RCTTMap.m; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-FoodDeliveryApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodDeliveryApp.release.xcconfig"; path = "Target Support Files/Pods-FoodDeliveryApp/Pods-FoodDeliveryApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-FoodDeliveryApp-FoodDeliveryAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodDeliveryApp-FoodDeliveryAppTests.debug.xcconfig"; path = "Target Support Files/Pods-FoodDeliveryApp-FoodDeliveryAppTests/Pods-FoodDeliveryApp-FoodDeliveryAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-FoodDeliveryApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FoodDeliveryApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -92,6 +95,9 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
+				539AD46428DC3F51000DABDC /* FoodDeliveryApp-Bridging-Header.h */,
+				539AD46528DC3FB5000DABDC /* RCTTMap.h */,
+				539AD46628DC3FE7000DABDC /* RCTTMap.m */,
 			);
 			name = FoodDeliveryApp;
 			sourceTree = "<group>";
